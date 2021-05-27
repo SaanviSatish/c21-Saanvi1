@@ -1,1 +1,2 @@
-# c21-Saanvi1
+# collisionAlgorithm
+Algorithm to detect collision between two objects
